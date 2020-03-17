@@ -3,7 +3,7 @@
   src: url("/font/Great Wishes.otf") format("otf"); }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000320}}
 body {
-  font-family: "source sans pro";
+  font-family: "source sans pro", "great wishes", sans-serif !important;
   background: #e4e4e4;
   overflow-x: hidden; }
 
