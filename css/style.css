@@ -1,21 +1,24 @@
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000315}}
+@font-face {
+  font-family: "great wishes";
+  src: url("/font/Great Wishes.otf") format("otf"); }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000320}}
 body {
   font-family: "source sans pro";
   background: #e4e4e4;
   overflow-x: hidden; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000326}}
 .bg {
   min-width: 100%;
   height: 100vh;
   background: #e4e4e4; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000327}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000332}}
 .pink {
   color: #f08597;
   opacity: 0.8; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000332}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000337}}
 .container2 {
   position: relative;
   width: 100%;
@@ -25,7 +28,7 @@ body {
   min-height: 700px;
   overflow: hidden; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000341}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000346}}
 .container {
   position: relative;
   width: 700px;
@@ -36,14 +39,14 @@ body {
   min-height: 700px;
   overflow: hidden; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000351}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000356}}
 * {
   margin: 0;
   padding: 0;
   -webkit-box-sizing: border-box;
           box-sizing: border-box; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000357}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000362}}
 .flex {
   width: 600px;
   display: -webkit-box;
@@ -53,7 +56,7 @@ body {
       -ms-flex-pack: justify;
           justify-content: space-between; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000363}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000368}}
 .center-absolute {
   width: 100%;
   position: absolute;
@@ -64,30 +67,30 @@ body {
   display: block;
   text-align: center; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000373}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000378}}
 .big-size {
   font-size: 6em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000377}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000382}}
 .normal-size {
   font-size: 3em;
   text-transform: uppercase;
   font-weight: bold !important; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000382}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000387}}
 .great-wishes {
   font-family: "great wishes"; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000386}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000391}}
 .upperCase {
   text-transform: uppercase; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000390}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000395}}
 .white {
   color: #fff;
   text-shadow: 2px 2px 2px 2px #5100a1; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000395}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003100}}
 .circle-font {
   position: absolute;
   width: 90px;
@@ -96,26 +99,26 @@ body {
   background: #f08597;
   -webkit-transform: rotate(-60deg);
           transform: rotate(-60deg); }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003102}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003107}}
   .circle-font:nth-child(1) {
     background: rgba(81, 0, 161, 0.2);
     left: 530px;
     -webkit-transform: rotate(-60deg) scaleY(4);
             transform: rotate(-60deg) scaleY(4); }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003107}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003112}}
   .circle-font:nth-child(2) {
     background: rgba(240, 133, 151, 0.2);
     left: 320px;
     -webkit-transform: rotate(-60deg) scaleY(2);
             transform: rotate(-60deg) scaleY(2); }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003112}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003117}}
   .circle-font:nth-child(3) {
     background: rgba(81, 0, 161, 0.2);
     left: 110px;
     -webkit-transform: rotate(-60deg) scaleY(4);
             transform: rotate(-60deg) scaleY(4); }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003119}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003124}}
 .bloc-sub-txt {
   position: relative;
   background: #5100a1;
@@ -125,7 +128,7 @@ body {
   line-height: 50px;
   margin-top: -10px;
   font-weight: lighter; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003128}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003133}}
   .bloc-sub-txt:after {
     content: "";
     position: absolute;
@@ -133,28 +136,28 @@ body {
     border-right: 25px solid #971dea;
     right: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003137}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003142}}
 .bloc-third-txt {
   margin-top: 5px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003141}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003146}}
 .circles-top-right {
   top: -10px;
   right: -70px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003146}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003151}}
 .circles-bottom-left {
   bottom: -10px;
   left: -70px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003150}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003155}}
 .circles-purple {
   position: absolute;
   width: 150px;
   height: 150px;
   border-radius: 50%;
   background: rgba(81, 0, 161, 0.2); }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003157}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003162}}
   .circles-purple:before, .circles-purple:after {
     content: "";
     position: absolute;
@@ -164,7 +167,7 @@ body {
     border-radius: 50%;
     top: 28px;
     left: 30px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003168}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003173}}
   .circles-purple:after {
     width: 45px;
     height: 45px;
@@ -172,14 +175,14 @@ body {
     top: 53px;
     left: 50px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003177}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003182}}
 .circles-pink {
   position: absolute;
   width: 150px;
   height: 150px;
   border-radius: 50%;
   background: rgba(240, 133, 151, 0.2); }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003184}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003189}}
   .circles-pink:before, .circles-pink:after {
     content: "";
     position: absolute;
@@ -189,12 +192,11 @@ body {
     border-radius: 50%;
     top: 28px;
     left: 22px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003195}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\00003200}}
   .circles-pink:after {
     width: 45px;
     height: 45px;
     background: rgba(240, 133, 151, 0.3);
     top: 53px;
     left: 50px; }
-
 /*# sourceMappingURL=style.css.map */

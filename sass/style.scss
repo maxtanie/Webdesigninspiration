@@ -12,6 +12,11 @@ $pink-op20: rgba(240, 133, 151, 0.2);
 $pink-op30: rgba(240, 133, 151, 0.3);
 $pink-op50: rgba(240, 133, 151, 0.5);
 
+@font-face {
+  font-family: "great wishes";
+  src: url("/font/Great\ Wishes.otf") format("otf");
+}
+
 body {
   font-family: "source sans pro";
   background: #e4e4e4;
