@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "great wishes";
+  font-family: great wishes;
   src: url("/font/Great Wishes.otf") format("otf"); }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000320}}
 body {
@@ -79,7 +79,7 @@ body {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000387}}
 .great-wishes {
-  font-family: "great wishes"; }
+  font-family: great wishes; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/maxta\/Desktop\/Desing-integration\/John-14-6-inetegration-poster\/sass\/style\.scss}line{font-family:\0000391}}
 .upperCase {
@@ -199,4 +199,5 @@ body {
     background: rgba(240, 133, 151, 0.3);
     top: 53px;
     left: 50px; }
+
 /*# sourceMappingURL=style.css.map */
